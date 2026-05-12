@@ -4,7 +4,7 @@
 
 [![version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/andy-and-terry/emu)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![packages](https://img.shields.io/badge/packages-105-orange)](https://github.com/andy-and-terry?tab=repositories&q=emu-)
+[![packages](https://img.shields.io/badge/packages-105-orange)](https://github.com/andy-and-terry/js-emu/tree/emu-libs/)
 
 ---
 
