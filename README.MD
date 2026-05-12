@@ -2,9 +2,9 @@
 
 > **Execution & Module Utilities** — a powerful, professional JavaScript runtime toolkit and package ecosystem.
 
-[![version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/your-username/emu)
+[![version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/andy-and-terry/emu)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![packages](https://img.shields.io/badge/packages-105-orange)](https://github.com/your-username?tab=repositories&q=emu-)
+[![packages](https://img.shields.io/badge/packages-105-orange)](https://github.com/andy-and-terry?tab=repositories&q=emu-)
 
 ---
 
@@ -19,7 +19,7 @@ Think of it as Node.js, but yours.
 ## Install
 
 ```sh
-git clone https://github.com/your-username/emu
+git clone software --singlebranch https://github.com/andy-and-terry/emu/
 cd emu
 npm install
 node bin/emu.js -help
