@@ -1,0 +1,11 @@
+{
+  "name": "emu-toml",
+  "version": "1.0.0",
+  "description": "TOML parser",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

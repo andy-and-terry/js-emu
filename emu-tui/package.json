@@ -1,0 +1,11 @@
+{
+  "name": "emu-tui",
+  "version": "1.0.0",
+  "description": "Terminal UI framework — boxes, grids, inputs",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

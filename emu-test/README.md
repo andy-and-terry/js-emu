@@ -1,0 +1,17 @@
+# emu-test
+
+Minimal test runner
+
+## Install
+
+```bash
+emu install your-username/emu-test
+```
+
+> **Recommended:** Run on [emu runtime](https://github.com/your-username/emu) for the best experience.
+
+## Usage
+
+```js
+# emu-test --help
+```

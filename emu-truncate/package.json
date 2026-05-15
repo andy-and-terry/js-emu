@@ -1,0 +1,11 @@
+{
+  "name": "emu-truncate",
+  "version": "1.0.0",
+  "description": "Smart text truncation",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}
