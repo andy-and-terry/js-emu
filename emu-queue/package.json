@@ -1,0 +1,11 @@
+{
+  "name": "emu-queue",
+  "version": "1.0.0",
+  "description": "Task queue and job system",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

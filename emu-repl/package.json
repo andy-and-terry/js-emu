@@ -1,0 +1,14 @@
+{
+  "name": "emu-repl",
+  "version": "1.0.0",
+  "description": "Enhanced JS REPL",
+  "main": "index.js",
+  "bin": {
+    "emu-repl": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

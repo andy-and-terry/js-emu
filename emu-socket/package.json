@@ -1,0 +1,11 @@
+{
+  "name": "emu-socket",
+  "version": "1.0.0",
+  "description": "Real-time socket server framework",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "emu-remind",
+  "version": "1.0.0",
+  "description": "Set reminders in terminal",
+  "main": "index.js",
+  "bin": {
+    "emu-remind": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}
