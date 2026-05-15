@@ -1,0 +1,11 @@
+{
+  "name": "emu-chart-cli",
+  "version": "1.0.0",
+  "description": "ASCII charts in terminal",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

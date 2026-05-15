@@ -1,0 +1,11 @@
+{
+  "name": "emu-argv",
+  "version": "1.0.0",
+  "description": "Advanced argument parser",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

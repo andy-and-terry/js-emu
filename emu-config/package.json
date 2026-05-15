@@ -1,0 +1,11 @@
+{
+  "name": "emu-config",
+  "version": "1.0.0",
+  "description": "Layered config loader — env, file, defaults",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "emu-cli-lib",
+  "version": "1.0.0",
+  "description": "Build CLI tools in emu style",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

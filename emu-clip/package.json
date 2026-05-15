@@ -1,0 +1,14 @@
+{
+  "name": "emu-clip",
+  "version": "1.0.0",
+  "description": "Read/write clipboard from CLI",
+  "main": "index.js",
+  "bin": {
+    "emu-clip": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}
