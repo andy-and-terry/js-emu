@@ -1,0 +1,14 @@
+{
+  "name": "emu-du",
+  "version": "1.0.0",
+  "description": "Disk usage visualizer",
+  "main": "index.js",
+  "bin": {
+    "emu-du": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

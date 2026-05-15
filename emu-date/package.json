@@ -1,0 +1,11 @@
+{
+  "name": "emu-date",
+  "version": "1.0.0",
+  "description": "Date parsing and formatting",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}
