@@ -1,0 +1,11 @@
+{
+  "name": "emu-json",
+  "version": "1.0.0",
+  "description": "Enhanced JSON with comments and streaming",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

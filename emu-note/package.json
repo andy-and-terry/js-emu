@@ -1,0 +1,14 @@
+{
+  "name": "emu-note",
+  "version": "1.0.0",
+  "description": "Quick notes from CLI",
+  "main": "index.js",
+  "bin": {
+    "emu-note": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

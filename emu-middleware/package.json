@@ -1,0 +1,11 @@
+{
+  "name": "emu-middleware",
+  "version": "1.0.0",
+  "description": "Middleware chain builder",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}
