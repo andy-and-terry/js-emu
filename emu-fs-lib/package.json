@@ -1,0 +1,11 @@
+{
+  "name": "emu-fs-lib",
+  "version": "1.0.0",
+  "description": "Extended file system helpers",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

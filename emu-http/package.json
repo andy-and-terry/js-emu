@@ -1,0 +1,11 @@
+{
+  "name": "emu-http",
+  "version": "1.0.0",
+  "description": "HTTP client library",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "emu-fmt",
+  "version": "1.0.0",
+  "description": "Auto-format code files",
+  "main": "index.js",
+  "bin": {
+    "emu-fmt": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

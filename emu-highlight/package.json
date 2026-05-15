@@ -1,0 +1,11 @@
+{
+  "name": "emu-highlight",
+  "version": "1.0.0",
+  "description": "Syntax highlighting in terminal",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}
