@@ -1,0 +1,14 @@
+{
+  "name": "emu-touch",
+  "version": "1.0.0",
+  "description": "Create files/folders from CLI",
+  "main": "index.js",
+  "bin": {
+    "emu-touch": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "emu-std",
+  "version": "1.0.0",
+  "description": "Standard utility belt — arrays, strings, objects",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "emu-ping",
+  "version": "1.0.0",
+  "description": "Ping hosts with pretty output",
+  "main": "index.js",
+  "bin": {
+    "emu-ping": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

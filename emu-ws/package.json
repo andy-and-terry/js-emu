@@ -1,0 +1,14 @@
+{
+  "name": "emu-ws",
+  "version": "1.0.0",
+  "description": "WebSocket client/tester",
+  "main": "index.js",
+  "bin": {
+    "emu-ws": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

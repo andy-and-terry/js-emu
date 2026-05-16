@@ -1,0 +1,14 @@
+{
+  "name": "emu-gen",
+  "version": "1.0.0",
+  "description": "Code/file generator from templates",
+  "main": "index.js",
+  "bin": {
+    "emu-gen": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

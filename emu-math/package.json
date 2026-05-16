@@ -1,0 +1,11 @@
+{
+  "name": "emu-math",
+  "version": "1.0.0",
+  "description": "Extended math functions",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

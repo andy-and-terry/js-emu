@@ -1,0 +1,11 @@
+{
+  "name": "emu-semver",
+  "version": "1.0.0",
+  "description": "Semantic version parsing and comparison",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

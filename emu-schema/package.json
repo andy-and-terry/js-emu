@@ -1,0 +1,11 @@
+{
+  "name": "emu-schema",
+  "version": "1.0.0",
+  "description": "Schema validation",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

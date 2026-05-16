@@ -1,0 +1,11 @@
+{
+  "name": "emu-parse",
+  "version": "1.0.0",
+  "description": "Argument and config parser",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

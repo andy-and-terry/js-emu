@@ -1,0 +1,11 @@
+{
+  "name": "emu-deep",
+  "version": "1.0.0",
+  "description": "Deep clone, merge, and diff objects",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

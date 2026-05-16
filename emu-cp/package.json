@@ -1,0 +1,14 @@
+{
+  "name": "emu-cp",
+  "version": "1.0.0",
+  "description": "Smart copy with progress",
+  "main": "index.js",
+  "bin": {
+    "emu-cp": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

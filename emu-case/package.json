@@ -1,0 +1,11 @@
+{
+  "name": "emu-case",
+  "version": "1.0.0",
+  "description": "Convert between naming conventions",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

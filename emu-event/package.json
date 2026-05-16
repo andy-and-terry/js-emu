@@ -1,0 +1,11 @@
+{
+  "name": "emu-event",
+  "version": "1.0.0",
+  "description": "Event emitter with extras",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

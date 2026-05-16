@@ -1,0 +1,14 @@
+{
+  "name": "emu-find",
+  "version": "1.0.0",
+  "description": "Search files by name or content",
+  "main": "index.js",
+  "bin": {
+    "emu-find": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

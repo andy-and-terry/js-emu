@@ -1,0 +1,14 @@
+{
+  "name": "emu-mock",
+  "version": "1.0.0",
+  "description": "Spin up a mock REST API",
+  "main": "index.js",
+  "bin": {
+    "emu-mock": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}
