@@ -1,0 +1,11 @@
+{
+  "name": "emu-kv",
+  "version": "1.0.0",
+  "description": "Simple key-value store",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

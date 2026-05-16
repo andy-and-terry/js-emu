@@ -1,0 +1,11 @@
+{
+  "name": "emu-shell",
+  "version": "1.0.0",
+  "description": "Shell command runner with output capture",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

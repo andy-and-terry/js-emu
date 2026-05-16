@@ -1,0 +1,14 @@
+{
+  "name": "emu-watch",
+  "version": "1.0.0",
+  "description": "Watch files and run a command on change",
+  "main": "index.js",
+  "bin": {
+    "emu-watch": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

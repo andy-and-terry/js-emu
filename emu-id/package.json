@@ -1,0 +1,11 @@
+{
+  "name": "emu-id",
+  "version": "1.0.0",
+  "description": "Various ID generators",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

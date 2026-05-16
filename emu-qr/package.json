@@ -1,0 +1,14 @@
+{
+  "name": "emu-qr",
+  "version": "1.0.0",
+  "description": "Generate QR codes in terminal",
+  "main": "index.js",
+  "bin": {
+    "emu-qr": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

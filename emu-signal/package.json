@@ -1,0 +1,11 @@
+{
+  "name": "emu-signal",
+  "version": "1.0.0",
+  "description": "Signal and event handling helpers",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

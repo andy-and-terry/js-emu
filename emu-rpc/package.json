@@ -1,0 +1,11 @@
+{
+  "name": "emu-rpc",
+  "version": "1.0.0",
+  "description": "Remote procedure call library",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "emu-random",
+  "version": "1.0.0",
+  "description": "Random number, string, color generators",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

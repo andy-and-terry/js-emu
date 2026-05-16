@@ -1,0 +1,11 @@
+{
+  "name": "emu-template",
+  "version": "1.0.0",
+  "description": "Lightweight string templating",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

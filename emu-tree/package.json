@@ -1,0 +1,14 @@
+{
+  "name": "emu-tree",
+  "version": "1.0.0",
+  "description": "Print directory tree",
+  "main": "index.js",
+  "bin": {
+    "emu-tree": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

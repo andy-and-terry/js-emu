@@ -1,0 +1,11 @@
+{
+  "name": "emu-encrypt",
+  "version": "1.0.0",
+  "description": "AES encryption helpers",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

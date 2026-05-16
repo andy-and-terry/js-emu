@@ -1,0 +1,11 @@
+{
+  "name": "emu-zip-lib",
+  "version": "1.0.0",
+  "description": "Zip and unzip library",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}
