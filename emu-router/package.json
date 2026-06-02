@@ -1,0 +1,11 @@
+{
+  "name": "emu-router",
+  "version": "1.0.0",
+  "description": "HTTP router",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

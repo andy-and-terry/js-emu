@@ -1,0 +1,14 @@
+{
+  "name": "emu-pass",
+  "version": "1.0.0",
+  "description": "Password generator",
+  "main": "index.js",
+  "bin": {
+    "emu-pass": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

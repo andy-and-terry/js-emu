@@ -1,0 +1,11 @@
+{
+  "name": "emu-url",
+  "version": "1.0.0",
+  "description": "URL parser and validator",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

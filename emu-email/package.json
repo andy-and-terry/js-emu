@@ -1,0 +1,11 @@
+{
+  "name": "emu-email",
+  "version": "1.0.0",
+  "description": "Email address validator",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

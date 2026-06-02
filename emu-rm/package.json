@@ -1,0 +1,14 @@
+{
+  "name": "emu-rm",
+  "version": "1.0.0",
+  "description": "Safe delete with confirmation and trash support",
+  "main": "index.js",
+  "bin": {
+    "emu-rm": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

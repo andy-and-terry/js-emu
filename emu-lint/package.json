@@ -1,0 +1,14 @@
+{
+  "name": "emu-lint",
+  "version": "1.0.0",
+  "description": "Run linters across a project",
+  "main": "index.js",
+  "bin": {
+    "emu-lint": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "emu-serve",
+  "version": "1.0.0",
+  "description": "Static file server",
+  "main": "index.js",
+  "bin": {
+    "emu-serve": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

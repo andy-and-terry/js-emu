@@ -1,0 +1,11 @@
+{
+  "name": "emu-debounce",
+  "version": "1.0.0",
+  "description": "Debounce and throttle helpers",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

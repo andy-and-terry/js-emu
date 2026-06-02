@@ -1,0 +1,14 @@
+{
+  "name": "emu-dns",
+  "version": "1.0.0",
+  "description": "DNS lookup tool",
+  "main": "index.js",
+  "bin": {
+    "emu-dns": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

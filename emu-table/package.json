@@ -1,0 +1,11 @@
+{
+  "name": "emu-table",
+  "version": "1.0.0",
+  "description": "Render tables in terminal",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

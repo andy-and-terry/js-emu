@@ -1,0 +1,11 @@
+{
+  "name": "emu-spinner-lib",
+  "version": "1.0.0",
+  "description": "Spinner library",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

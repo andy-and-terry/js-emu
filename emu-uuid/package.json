@@ -1,0 +1,14 @@
+{
+  "name": "emu-uuid",
+  "version": "1.0.0",
+  "description": "UUID/ULID generator",
+  "main": "index.js",
+  "bin": {
+    "emu-uuid": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

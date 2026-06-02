@@ -1,0 +1,11 @@
+{
+  "name": "emu-web",
+  "version": "1.0.0",
+  "description": "Minimal web framework like Express",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "emu-mv",
+  "version": "1.0.0",
+  "description": "Move files with conflict resolution",
+  "main": "index.js",
+  "bin": {
+    "emu-mv": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

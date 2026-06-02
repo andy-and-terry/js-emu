@@ -1,0 +1,11 @@
+{
+  "name": "emu-dotenv",
+  "version": "1.0.0",
+  "description": ".env file loader with extras",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

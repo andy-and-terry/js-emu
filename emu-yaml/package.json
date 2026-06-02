@@ -1,0 +1,11 @@
+{
+  "name": "emu-yaml",
+  "version": "1.0.0",
+  "description": "Minimal YAML parser",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

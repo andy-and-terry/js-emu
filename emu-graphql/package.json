@@ -1,0 +1,11 @@
+{
+  "name": "emu-graphql",
+  "version": "1.0.0",
+  "description": "Minimal GraphQL client",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "emu-fmt-lib",
+  "version": "1.0.0",
+  "description": "String formatting helpers",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

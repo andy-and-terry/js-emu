@@ -1,0 +1,11 @@
+{
+  "name": "emu-menu",
+  "version": "1.0.0",
+  "description": "Interactive terminal menus",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

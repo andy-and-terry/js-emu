@@ -1,0 +1,11 @@
+{
+  "name": "emu-ip",
+  "version": "1.0.0",
+  "description": "IP address utilities",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

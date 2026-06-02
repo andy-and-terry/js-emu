@@ -1,0 +1,11 @@
+{
+  "name": "emu-md",
+  "version": "1.0.0",
+  "description": "Markdown parser and terminal renderer",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

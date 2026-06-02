@@ -1,0 +1,11 @@
+{
+  "name": "emu-jwt",
+  "version": "1.0.0",
+  "description": "JWT encode and decode",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

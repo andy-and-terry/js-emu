@@ -1,0 +1,14 @@
+{
+  "name": "emu-env",
+  "version": "1.0.0",
+  "description": "Manage .env files",
+  "main": "index.js",
+  "bin": {
+    "emu-env": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

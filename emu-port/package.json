@@ -1,0 +1,14 @@
+{
+  "name": "emu-port",
+  "version": "1.0.0",
+  "description": "Check if ports are open",
+  "main": "index.js",
+  "bin": {
+    "emu-port": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

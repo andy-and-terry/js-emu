@@ -1,0 +1,11 @@
+{
+  "name": "emu-hash",
+  "version": "1.0.0",
+  "description": "Hashing utilities — md5, sha256 and more",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

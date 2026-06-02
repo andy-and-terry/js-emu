@@ -1,0 +1,11 @@
+{
+  "name": "emu-xml",
+  "version": "1.0.0",
+  "description": "XML parser",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

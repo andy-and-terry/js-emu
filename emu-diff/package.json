@@ -1,0 +1,14 @@
+{
+  "name": "emu-diff",
+  "version": "1.0.0",
+  "description": "Diff two files in terminal",
+  "main": "index.js",
+  "bin": {
+    "emu-diff": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

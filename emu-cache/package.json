@@ -1,0 +1,11 @@
+{
+  "name": "emu-cache",
+  "version": "1.0.0",
+  "description": "In-memory cache with TTL",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "emu-slug",
+  "version": "1.0.0",
+  "description": "Generate URL-safe slugs",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

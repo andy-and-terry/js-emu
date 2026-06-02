@@ -1,0 +1,11 @@
+{
+  "name": "emu-sql",
+  "version": "1.0.0",
+  "description": "SQLite wrapper",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

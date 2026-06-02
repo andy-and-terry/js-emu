@@ -1,0 +1,11 @@
+{
+  "name": "emu-proc",
+  "version": "1.0.0",
+  "description": "Process management helpers",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

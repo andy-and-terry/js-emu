@@ -1,0 +1,14 @@
+{
+  "name": "emu-timer",
+  "version": "1.0.0",
+  "description": "Countdown and stopwatch",
+  "main": "index.js",
+  "bin": {
+    "emu-timer": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

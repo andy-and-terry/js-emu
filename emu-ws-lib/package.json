@@ -1,0 +1,11 @@
+{
+  "name": "emu-ws-lib",
+  "version": "1.0.0",
+  "description": "WebSocket client and server library",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

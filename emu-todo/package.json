@@ -1,0 +1,14 @@
+{
+  "name": "emu-todo",
+  "version": "1.0.0",
+  "description": "Terminal todo list",
+  "main": "index.js",
+  "bin": {
+    "emu-todo": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

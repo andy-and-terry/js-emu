@@ -1,0 +1,11 @@
+{
+  "name": "emu-base64",
+  "version": "1.0.0",
+  "description": "Base64 encode and decode",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

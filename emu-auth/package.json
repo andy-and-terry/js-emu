@@ -1,0 +1,11 @@
+{
+  "name": "emu-auth",
+  "version": "1.0.0",
+  "description": "Authentication helpers — JWT and sessions",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

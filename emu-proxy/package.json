@@ -1,0 +1,14 @@
+{
+  "name": "emu-proxy",
+  "version": "1.0.0",
+  "description": "Local reverse proxy",
+  "main": "index.js",
+  "bin": {
+    "emu-proxy": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "emu-rename",
+  "version": "1.0.0",
+  "description": "Bulk rename files with patterns",
+  "main": "index.js",
+  "bin": {
+    "emu-rename": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

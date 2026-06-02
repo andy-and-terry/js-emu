@@ -1,0 +1,11 @@
+{
+  "name": "emu-regex",
+  "version": "1.0.0",
+  "description": "Common regex patterns",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

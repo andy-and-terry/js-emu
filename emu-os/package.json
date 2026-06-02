@@ -1,0 +1,11 @@
+{
+  "name": "emu-os",
+  "version": "1.0.0",
+  "description": "OS information — platform, memory, CPU",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

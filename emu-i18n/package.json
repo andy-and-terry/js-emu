@@ -1,0 +1,11 @@
+{
+  "name": "emu-i18n",
+  "version": "1.0.0",
+  "description": "Simple internationalization",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

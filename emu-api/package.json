@@ -1,0 +1,11 @@
+{
+  "name": "emu-api",
+  "version": "1.0.0",
+  "description": "REST API builder",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

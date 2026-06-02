@@ -1,0 +1,14 @@
+{
+  "name": "emu-curl",
+  "version": "1.0.0",
+  "description": "HTTP requests from CLI",
+  "main": "index.js",
+  "bin": {
+    "emu-curl": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

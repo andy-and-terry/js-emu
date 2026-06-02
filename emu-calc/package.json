@@ -1,0 +1,14 @@
+{
+  "name": "emu-calc",
+  "version": "1.0.0",
+  "description": "Terminal calculator",
+  "main": "index.js",
+  "bin": {
+    "emu-calc": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}

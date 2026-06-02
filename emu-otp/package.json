@@ -1,0 +1,11 @@
+{
+  "name": "emu-otp",
+  "version": "1.0.0",
+  "description": "One-time password generator",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "util"
+  ],
+  "license": "MIT"
+}

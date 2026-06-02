@@ -1,0 +1,11 @@
+{
+  "name": "emu-worker",
+  "version": "1.0.0",
+  "description": "Worker thread pool",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

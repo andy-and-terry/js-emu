@@ -1,0 +1,11 @@
+{
+  "name": "emu-csv",
+  "version": "1.0.0",
+  "description": "CSV read/write library",
+  "main": "index.js",
+  "keywords": [
+    "emu",
+    "lib"
+  ],
+  "license": "MIT"
+}

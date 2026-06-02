@@ -1,0 +1,14 @@
+{
+  "name": "emu-bench",
+  "version": "1.0.0",
+  "description": "Benchmark JS functions",
+  "main": "index.js",
+  "bin": {
+    "emu-bench": "./index.js"
+  },
+  "keywords": [
+    "emu",
+    "cli"
+  ],
+  "license": "MIT"
+}
